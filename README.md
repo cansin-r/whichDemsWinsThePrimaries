@@ -1,4 +1,4 @@
-# DATA102
+# Data, Inference, Prediction -- Machine Learning for Data Science Project
 Final Project for Data, Inference, Prediction (DATA 102) at UC Berkeley. 
 ## Research Question 1
 Does party support CAUSE democratic nominees to win the primary elections?
